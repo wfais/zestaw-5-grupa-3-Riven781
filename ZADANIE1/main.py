@@ -33,7 +33,7 @@ def wykonaj_pomiar():
                 }
             )
 
-            # plot_histogram(tablica, algo_pomiar["nazwa"], FPS)
+            #plot_histogram(tablica, algo_pomiar["nazwa"], FPS)
 
         wszystkie_pomiary.append(algo_pomiar)
 
